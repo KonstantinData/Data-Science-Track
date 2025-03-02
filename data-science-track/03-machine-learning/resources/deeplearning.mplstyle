@@ -1,0 +1,9 @@
+axes.grid: True
+axes.facecolor: white
+figure.figsize: 8, 6
+font.size: 12
+grid.color: gray
+grid.linestyle: --
+lines.linewidth: 2
+lines.marker: o
+lines.markersize: 6
